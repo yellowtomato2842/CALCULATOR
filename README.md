@@ -59,8 +59,13 @@ If something breaks, it’s probably me(developer), not the calculator. Maybe py
 
 ---
 
-### FUN SECTION
+### FUN SECTION (NOT FILTERED A BIT (may contain swear words or mispelled works)
 - Yes i will keep the fosile fuel edition (crayon eater edition) in the files LOL
 - No i bearly understand my code
 - Yes i wrote and i think i will write new spaggeti code
 - idk :|
+- go play stick war
+- why are you reading this
+- ....
+- .....
+- WHY ARE YOU STILL HERE PLEASE TRY THE APP ALREADY
