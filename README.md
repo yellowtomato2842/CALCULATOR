@@ -1,34 +1,66 @@
-# App availability
-Free to use/publish,
-Not to sell,
-mention atleast the author.
+# Calculator App
 
 ## Version
-The literal first intregration ever of this (alpha 1)
-
-## Author/s
-yellowtomato2842 - did it almost all
-github ai - bug fixes and writing this
+Alpha stage (still improving)
 
 ## Description
-The first integration of my calculator. Can do this:
-adding, subtracting, multiplication, division.
-Can't do:
-complex math like cos or sin, abs, ect. (i idk but its ect)
-HOPE YOU ENJOY
+A simple Python calculator that supports basic operations including:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power operations
 
-# Thanks
-Thanks to yellowtomato2842/me, github ai, and my willingness to learn programing languages i can do this
+Built as a learning project while exploring Python and CLI applications.
 
-# Tutorial to install (For crayon eaters who don't know (like me))
-1. go to this page (you are already on it)
-2.search for releases or a mediafire link
-3.install the .zip file (to take small space)
-4. after you installed the .zip file, unpack it when you would like at the location you would like.
-4.5. PLS LIKE MY CREATION
-5. run the shortcut or search for the .exe (should be in the dist folder)
+---
 
-# IMPORTANT (not for people who installed this app from my github page)
-if this was sold to you:
-1. idk
-2. i still don't know.
+## Features
+- Basic math operations
+- Power calculation support
+- Input clearing system
+- Help and exit commands
+- Maximum input limit (10 numbers)
+
+---
+
+## Author
+- yellowtomato2842 — main developer  
+- github chatgpt — made this
+- github copilot — bugfixes ect and a hurting brain  
+
+---
+
+## Usage Note
+This is a beginner learning project. Expect improvements over time as I continue learning programming.
+
+---
+
+## Installation
+
+1. Go to the releases page (or download link)
+2. Download the `.zip` file
+3. Extract it anywhere you want
+4. Run the executable from the `dist` folder or shortcut
+
+---
+
+## Fun Note 😄
+This project was built while learning Python — mistakes are part of the process.
+
+If something breaks, it’s probably me(developer), not the calculator. Maybe python. Maybe.
+
+---
+
+## License
+- Free to use and share
+- Not for resale
+- Please credit the original author if you reuse it
+
+---
+
+### FUN SECTION
+- Yes i will keep the fosile fuel edition (crayon eater edition) in the files LOL
+- No i bearly understand my code
+- Yes i wrote and i think i will write new spaggeti code
+- idk :|
