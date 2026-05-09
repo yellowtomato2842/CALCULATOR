@@ -3,6 +3,8 @@
 ## Version
 Alpha stage (still improving)
 
+---
+
 ## Description
 A simple Python calculator that supports basic operations including:
 - Addition
@@ -26,8 +28,7 @@ Built as a learning project while exploring Python and CLI applications.
 
 ## Author
 - yellowtomato2842 — main developer  
-- github chatgpt — made this
-- github copilot — bugfixes ect and a hurting brain  
+- AI assistance — debugging and suggestions  
 
 ---
 
@@ -45,27 +46,21 @@ This is a beginner learning project. Expect improvements over time as I continue
 
 ---
 
-## Fun Note 😄
+## Fun Note 
 This project was built while learning Python — mistakes are part of the process.
 
-If something breaks, it’s probably me(developer), not the calculator. Maybe python. Maybe.
+If something breaks, it's probably me (the developer), not the calculator. Or maybe Python.
 
 ---
 
 ## License
 - Free to use and share
 - Not for resale
-- Please credit the original author if you reuse it
+- Please credit the original author if reused
 
 ---
 
-### FUN SECTION (NOT FILTERED A BIT (may contain swear words or mispelled works)
-- Yes i will keep the fosile fuel edition (crayon eater edition) in the files LOL
-- No i bearly understand my code
-- Yes i wrote and i think i will write new spaggeti code
-- idk :|
-- go play stick war
-- why are you reading this
-- ....
-- .....
-- WHY ARE YOU STILL HERE PLEASE TRY THE APP ALREADY
+## Easter Egg
+There maybe... maybe be a hidden folder somewhere...
+Find the map or find it yourself.
+Good luck... mr. PIXEL INSPECTOR (its easy please go easy on this. or not :P)
