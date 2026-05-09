@@ -64,3 +64,4 @@ If something breaks, it's probably me (the developer), not the calculator. Or ma
 There maybe... maybe be a hidden folder somewhere...
 Find the map or find it yourself.
 Good luck... mr. PIXEL INSPECTOR (its easy please go easy on this. or not :P)
+456yellowtomato2842...123
