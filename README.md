@@ -14,7 +14,7 @@ github ai - bug fixes and writing this
 The first integration of my calculator. Can do this:
 adding, subtracting, multiplication, division.
 Can't do:
-powers, complex math like cos or sin.
+complex math like cos or sin, abs, ect. (i idk but its ect)
 HOPE YOU ENJOY
 
 # Thanks
